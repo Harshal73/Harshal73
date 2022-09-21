@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on quantitative finance projects
+- 🔭 I’m currently working on  finance projects
 - 🌱 I’m currently learning financial engineering
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with quant devs.
